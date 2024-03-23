@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spreadsheet>
+  <cell name="A0">
+    <text>50</text>
+    <bgcolor>4294967295</bgcolor>
+  </cell>
+  <cell name="B0">
+    <text>=a1</text>
+    <bgcolor>4294967168</bgcolor>
+  </cell>
+  <cell name="A1">
+    <text>5</text>
+    <bgcolor>4294967295</bgcolor>
+  </cell>
+  <cell name="B1">
+    <text>=a1+b1</text>
+    <bgcolor>4294967168</bgcolor>
+  </cell>
+  <cell name="A2">
+    <text></text>
+    <bgcolor>4278222848</bgcolor>
+  </cell>
+  <cell name="B2">
+    <text></text>
+    <bgcolor>4278222848</bgcolor>
+  </cell>
+  <cell name="A3">
+    <text></text>
+    <bgcolor>4278222848</bgcolor>
+  </cell>
+  <cell name="B3">
+    <text></text>
+    <bgcolor>4278222848</bgcolor>
+  </cell>
+</spreadsheet>

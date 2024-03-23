@@ -1,2 +1,5 @@
-# Spread-Sheet
-Simple implementation of creating a spreadsheet with basic functionality.
+# CPTS321-HWs-Fall2023
+
+Nickolas Sturgeon
+
+WSU ID: 011825731

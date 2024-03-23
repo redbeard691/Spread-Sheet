@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{462A8322-F0F7-4470-85FC-E2F02B8B314A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Test.xml = Test.xml
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpreadSheet_Engine", "SpreadSheet_Engine\SpreadSheet_Engine.csproj", "{58E7F918-930B-470D-93F8-895FDAA1A6DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpreadSheet_Nickolas_Sturgeon", "SpreadSheet_Nickolas_Sturgeon\SpreadSheet_Nickolas_Sturgeon.csproj", "{8386A058-6440-4E39-919C-D7EFBFC0563D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Unit_SpreadSheet_Engine", "Test_Unit_SpreadSheet\Test_Unit_SpreadSheet_Engine.csproj", "{1B4D4728-59FA-407B-A73E-CA044B38271D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Expression_Tree", "Demo_Expression_Tree\Demo_Expression_Tree.csproj", "{1C7ED74F-8456-444A-B05F-E2C82BFD5FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E7F918-930B-470D-93F8-895FDAA1A6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E7F918-930B-470D-93F8-895FDAA1A6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E7F918-930B-470D-93F8-895FDAA1A6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E7F918-930B-470D-93F8-895FDAA1A6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8386A058-6440-4E39-919C-D7EFBFC0563D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8386A058-6440-4E39-919C-D7EFBFC0563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8386A058-6440-4E39-919C-D7EFBFC0563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8386A058-6440-4E39-919C-D7EFBFC0563D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4D4728-59FA-407B-A73E-CA044B38271D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4D4728-59FA-407B-A73E-CA044B38271D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4D4728-59FA-407B-A73E-CA044B38271D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4D4728-59FA-407B-A73E-CA044B38271D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7ED74F-8456-444A-B05F-E2C82BFD5FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7ED74F-8456-444A-B05F-E2C82BFD5FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7ED74F-8456-444A-B05F-E2C82BFD5FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7ED74F-8456-444A-B05F-E2C82BFD5FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91BFD69F-71E2-4867-B494-40573E770E0A}
+	EndGlobalSection
+EndGlobal
